@@ -1,0 +1,5 @@
+package tr.mdb.footballStats.enums;
+
+public enum Nationality {
+    TURKEY,ENGLAND,GERMANY,FRANCE,SPAIN,PORTUGAL,ARGENTINA,BRAZIL,URUGUAY,MEXICO,USA,SOUTH_KOREAN,JAPAN
+}
